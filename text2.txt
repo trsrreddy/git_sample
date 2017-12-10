@@ -1,0 +1,12 @@
+ Volume in drive C has no label.
+ Volume Serial Number is A277-3724
+
+ Directory of C:\MyProgramming\git_local\git_sample
+
+12/10/2017  06:32 AM    <DIR>          .
+12/10/2017  06:32 AM    <DIR>          ..
+12/10/2017  06:17 AM               138 sample.java
+12/10/2017  06:14 AM               414 text1.txt
+12/10/2017  06:32 AM                 0 text2.txt
+               3 File(s)            552 bytes
+               2 Dir(s)  192,012,894,208 bytes free
